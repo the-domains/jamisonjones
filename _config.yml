@@ -25,7 +25,7 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: YouTube
+  - name: YouTube Channel
     url: 'http://youtube.com/jamisonjones'
     type: external
   - name: Clothing
