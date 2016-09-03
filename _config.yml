@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: YouTube
+    url: 'http://youtube.com/jamisonjones'
+    type: external
 favicon: null
 title: Jamison Jones
 description: Do Your Creative Best with What You Have.
