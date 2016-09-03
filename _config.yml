@@ -1,4 +1,31 @@
+name: Jamison Jones
+favicon: null
+layout_spectrum: 1
 typography_spectrum: 0.48934
+navigation:
+  - name: YouTube Channel
+    url: 'http://youtube.com/jamisonjones'
+    type: external
+  - name: Clothing Brand
+    url: 'http://generosityspeaks.com'
+    type: external
+  - name: Social Media
+    id: e4547a0b-7d5e-4d3a-b396-c6ee6af1a5fa
+    type: content
+title: Jamison Jones
+description: Do Your Creative Best with What You Have.
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: UA-73012941-1
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#cddae7'
@@ -10,31 +37,4 @@ color:
   lightness: 0.1875
   saturation: 0.625
   rhythmicContrast: 0.25
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.25795
-analytics:
-  google: UA-73012941-1
-  facebook: null
-  twitter: null
-name: Jamison Jones
-cta:
-  domain: null
-  bucket: null
-  version: null
-navigation:
-  - name: YouTube Channel
-    url: 'http://youtube.com/jamisonjones'
-    type: external
-  - name: Clothing Brand
-    url: 'http://generosityspeaks.com'
-    type: external
-  - name: Social Media
-    id: e4547a0b-7d5e-4d3a-b396-c6ee6af1a5fa
-    type: content
-favicon: null
-title: Jamison Jones
-description: Do Your Creative Best with What You Have.
 purpose: []
