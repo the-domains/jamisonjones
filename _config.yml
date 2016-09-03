@@ -34,6 +34,9 @@ navigation:
   - name: Clothing
     url: 'http://generosityspeaks.com'
     type: external
+  - name: Twitter
+    url: 'http://twitter.com/jamisonmusic'
+    type: external
 favicon: null
 title: Jamison Jones
 description: Do Your Creative Best with What You Have.
