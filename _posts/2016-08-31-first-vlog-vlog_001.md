@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-31T17:09:50.232Z'
+datePublished: '2016-08-31T18:40:12.759Z'
+sourcePath: _posts/2016-08-31-first-vlog-vlog_001.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-31T17:09:30.969Z'
+dateModified: '2016-08-31T18:40:12.081Z'
 title: First Vlog - VLOG_001
 publisher: {}
 description: ''
 starred: false
-sourcePath: _posts/2016-08-31-first-vlog-vlog_001.md
 _type: Blurb
 
 ---
