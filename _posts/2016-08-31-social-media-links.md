@@ -1,15 +1,17 @@
 ---
-datePublished: '2016-08-31T17:30:06.023Z'
+datePublished: '2016-08-31T17:30:36.662Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-31T17:29:08.536Z'
+dateModified: '2016-08-31T17:30:36.236Z'
 title: Social Media Links
 publisher: {}
 description: ''
-starred: false
 sourcePath: _posts/2016-08-31-social-media-links.md
-_type: Blurb
+hasPage: true
+starred: false
+url: social-media-links/index.html
+_type: Article
 
 ---
 # Social Media Links
