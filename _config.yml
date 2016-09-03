@@ -28,9 +28,6 @@ navigation:
   - name: YouTube
     url: 'http://youtube.com/jamisonjones'
     type: external
-  - name: Instagram
-    url: 'http://instagram.com/jamisonjones.co'
-    type: external
   - name: Clothing
     url: 'http://generosityspeaks.com'
     type: external
