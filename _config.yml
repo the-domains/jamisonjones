@@ -31,9 +31,6 @@ navigation:
   - name: Clothing
     url: 'http://generosityspeaks.com'
     type: external
-  - name: Twitter
-    url: 'http://twitter.com/jamisonmusic'
-    type: external
   - name: Social Media
     id: e4547a0b-7d5e-4d3a-b396-c6ee6af1a5fa
     type: content
