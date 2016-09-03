@@ -28,7 +28,7 @@ navigation:
   - name: YouTube Channel
     url: 'http://youtube.com/jamisonjones'
     type: external
-  - name: Clothing
+  - name: Clothing Brand
     url: 'http://generosityspeaks.com'
     type: external
   - name: Social Media
