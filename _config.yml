@@ -37,6 +37,9 @@ navigation:
   - name: Twitter
     url: 'http://twitter.com/jamisonmusic'
     type: external
+  - name: Social Media
+    id: e4547a0b-7d5e-4d3a-b396-c6ee6af1a5fa
+    type: content
 favicon: null
 title: Jamison Jones
 description: Do Your Creative Best with What You Have.
